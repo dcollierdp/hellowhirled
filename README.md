@@ -7,3 +7,5 @@ Shopping List
 * Bread
 * cookies
 * Turkey
+* Potatoes
+
