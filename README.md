@@ -2,9 +2,8 @@
 
 Hello, whirled!
 
-Todo List
-* Lorem
-* ipsum
-* dolor
-* sit 
-* amet
+Shopping List
+1. Milk
+* Bread
+* cookies
+* Turkey
